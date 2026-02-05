@@ -370,12 +370,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Cairo University Faculty of Computers and Artificial Intelligence
 - Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
 
-## 📞 Contact
-
-For questions or feedback, please contact:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project Link: [https://github.com/yourusername/restaurant-ordering-system](https://github.com/yourusername/restaurant-ordering-system)
-
----
 
 **Note**: This project is for educational purposes as part of the CS352 course at Cairo University.
